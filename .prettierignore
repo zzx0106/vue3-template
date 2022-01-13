@@ -1,0 +1,15 @@
+.build.config
+.ice/
+.vscode
+build/
+node_modules
+tests/
+ssh/
+src/libs
+demo/
+coverage/
+**/*-min.js
+**/*.min.js
+package-lock.json
+yarn.lock
+*.md
